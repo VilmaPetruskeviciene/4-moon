@@ -1,0 +1,59 @@
+body {
+    background-color: #f0f2fc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    width: 80%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.logo {
+    float: left;
+    margin-right: 10%;
+}
+
+nav {
+    display: inline-block;
+}
+
+.link {
+    text-decoration: none;
+    color: #1b1263;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.link:last-child {
+    margin-right: 0;
+}
+
+.link.link-colored {
+    background-color: #37ddec;
+    padding: 8px 30px;
+    border: 2px solid #37ddec;
+    border-radius: 10px;
+}
+
+.login {
+    float: right;
+}
+
+.height {
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: 12px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.link-main {
+    display: inline-block;
+}
