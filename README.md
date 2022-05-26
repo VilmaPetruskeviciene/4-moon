@@ -9,7 +9,7 @@ _404 page Moon_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vilmapetruskeviciene.github.io/4-astronautas/
+Site published at:  https://vilmapetruskeviciene.github.io/4-moon/
 
 Design: [Moon](https://cdn.dribbble.com/users/3574161/screenshots/8061060/media/395ad54a17784cf56583251529e1aa78.mp4)
 
