@@ -30,6 +30,10 @@ nav {
     margin-right: 20px;
 }
 
+.link:hover {
+    text-decoration: underline;
+}
+
 .link:last-child {
     margin-right: 0;
 }
@@ -93,8 +97,17 @@ p {
     background-color: #FBD4D1;
     color: #f86b5c;
     border: 2px solid #fbd4d1;
+    box-shadow: 0 8px 10px #FBEDED;
 }
 
 .top {
     margin-top: 60px;
+}
+
+main > img {
+    transition: all 5s;
+}
+
+main > img:hover {
+    transform: rotate(20deg) scale(1.5);
 }
