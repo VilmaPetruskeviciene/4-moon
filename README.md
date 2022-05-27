@@ -17,7 +17,7 @@ Design: [Moon](https://cdn.dribbble.com/users/3574161/screenshots/8061060/media/
 
 -   Github pages
 -   `<style>` tag
--   search-element
+-   search box
 
 
 ## Authors
