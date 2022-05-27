@@ -45,11 +45,23 @@ nav {
 }
 
 input {
-    background-color: #D4D6D8;
-    padding: 8px 8px;
+    background-color: #E0E3E5;
+    padding: 8px 6px;
     border: none;
     border-radius: 16px;
 }
+
+input::placeholder {
+    color: #1b1263;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: bold;
+  }
+
+input:hover, input:focus {
+    border: 1.5px solid #1b1263;
+    color: #1b1263;
+  }
 
 .height {
     font-size: 16px;
